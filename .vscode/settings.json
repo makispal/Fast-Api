@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:/Users/guita/VsCodeProjects/P-STORE-API/venv/Scripts/activate.bat/python",
+    "python.analysis.extraPaths": [
+        "main"
+    ]
+}
