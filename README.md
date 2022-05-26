@@ -1,2 +1,3 @@
-# P-STORE-API
-Create An API For P-STORE-WMS
+# Fast Api 
+
+## This is a simple Fast Api example.
